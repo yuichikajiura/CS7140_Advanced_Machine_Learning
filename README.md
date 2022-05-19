@@ -1,1 +1,3 @@
-# CS7140_Advanced_Machine_Learning
+# CS7140 Advanced Machine Learning
+
+This repository contains a project report for CS7140 Advanced Machine Learning
